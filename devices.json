@@ -1,0 +1,25 @@
+{
+  "977ed6fc-bfee-4a4d-8914-493a928e2a60": {
+    "info": {
+      "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
+      "browser": {
+        "name": "Chrome",
+        "version": "125.0.0.0",
+        "major": "125"
+      },
+      "engine": {
+        "name": "Blink",
+        "version": "125.0.0.0"
+      },
+      "os": {
+        "name": "Windows",
+        "version": "10"
+      },
+      "device": {},
+      "cpu": {
+        "architecture": "amd64"
+      }
+    },
+    "visits": 1
+  }
+}
